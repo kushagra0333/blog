@@ -1,8 +1,8 @@
 {
   "name": "sanity",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://github.com/kushagra0333/blog.git",
+  "private": true,
+  "homepage": "https://kushagra0333.github.io/blog",
   "dependencies": {
     "@portabletext/react": "^3.1.0",
     "@sanity/block-content-to-react": "^3.0.0",

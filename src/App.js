@@ -7,7 +7,7 @@ import BlogPage from "./component/blogPage"
 function App() {
   return (
     <div className="app">
-      <Router>
+      <Router basename="/kushagra0333/blog.git">
         
         <div className="main">
           <Routes>
