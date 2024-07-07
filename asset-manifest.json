@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/kushagra0333/blog.git/static/css/main.1ed2ff55.css",
+    "main.js": "/kushagra0333/blog.git/static/js/main.25e58c24.js",
+    "static/js/796.18af506c.chunk.js": "/kushagra0333/blog.git/static/js/796.18af506c.chunk.js",
+    "static/js/165.39097797.chunk.js": "/kushagra0333/blog.git/static/js/165.39097797.chunk.js",
+    "static/js/453.e9dd19a5.chunk.js": "/kushagra0333/blog.git/static/js/453.e9dd19a5.chunk.js",
+    "index.html": "/kushagra0333/blog.git/index.html",
+    "main.1ed2ff55.css.map": "/kushagra0333/blog.git/static/css/main.1ed2ff55.css.map",
+    "main.25e58c24.js.map": "/kushagra0333/blog.git/static/js/main.25e58c24.js.map",
+    "796.18af506c.chunk.js.map": "/kushagra0333/blog.git/static/js/796.18af506c.chunk.js.map",
+    "165.39097797.chunk.js.map": "/kushagra0333/blog.git/static/js/165.39097797.chunk.js.map",
+    "453.e9dd19a5.chunk.js.map": "/kushagra0333/blog.git/static/js/453.e9dd19a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ed2ff55.css",
+    "static/js/main.25e58c24.js"
+  ]
+}
