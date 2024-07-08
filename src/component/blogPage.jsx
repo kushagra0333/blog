@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Container} from "react-bootstrap";
 import { useParams } from "react-router-dom";
 import client from "../client";
 import imageUrlBuilder from "@sanity/image-url";
