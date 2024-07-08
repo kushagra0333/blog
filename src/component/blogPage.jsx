@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from "react";
 import { Container} from "react-bootstrap";
 import { useParams } from "react-router-dom";
-import client from "../client";
+import client from "../sanityClient";
 import imageUrlBuilder from "@sanity/image-url";
 import BlockContent from "@sanity/block-content-to-react";
 import "./blogPage.css";

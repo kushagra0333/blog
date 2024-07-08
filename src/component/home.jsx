@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
-import  client from "../client";
+import  client from "../sanityClient";
 import "./home.css";
 
 const Home = () => {
