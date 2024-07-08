@@ -1,12 +1,10 @@
-import { createClient } from "@sanity/client";
+import sanityClient from '@sanity/client';
 
+const client = sanityClient({
+  projectId: process.env.REACT_APP_SANITY_PROJECT_ID,
+  dataset: process.env.REACT_APP_SANITY_DATASET,
+  apiVersion: '2021-03-25', // Use a specific API version
+  useCdn: true
+});
 
-const client = createClient({
-    projectId: "tpfd41zo",
-    dataset: "production",
-    apiVersion: '2021-03-25', // Use a specific API version
-    useCdn: true,
-  });
-
-  export default client;
-  
+export default client;
