@@ -1,7 +1,7 @@
 {
   "name": "sanity",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://kushagra0333.github.io/blog",
   "dependencies": {
     "@portabletext/react": "^3.1.0",
